@@ -1,0 +1,8 @@
+alpha: 0.02
+cd: 0.4
+area: 0.8
+g: 9.81
+thrust: 3000.0
+alpha_filter: 0.1
+guidance_constants:
+  n: 0.1

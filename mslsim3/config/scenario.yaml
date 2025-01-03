@@ -1,0 +1,17 @@
+initial_conditions:
+  missiles:
+    - mass: 1000.0
+      thrust: 5000.0
+      theta: 0.0
+      psi: 0.0
+      position: [0.0, 0.0, 0.0]
+      velocity: [200.0, 0.0, 300.0]
+
+  interceptors:
+    - mass: 500.0
+      thrust: 3000.0
+      theta: 0.0
+      psi: 0.0
+      position: [0.0, 0.0, 0.0]
+      velocity: [0.0, 0.0, 0.0]
+      launched: false

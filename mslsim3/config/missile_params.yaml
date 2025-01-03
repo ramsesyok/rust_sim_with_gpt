@@ -1,0 +1,7 @@
+alpha: 0.01
+cd: 0.5
+area: 1.0
+rho0: 1.225
+h: 8500.0
+g: 9.81
+alpha_filter: 0.1

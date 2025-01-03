@@ -1,0 +1,6 @@
+position: [0.0, 0.0, 0.0]
+direction: [1.0, 0.0, 0.0]
+range: 100000.0
+azimuth_range: 45.0
+elevation_range: 30.0
+period: 0.1
